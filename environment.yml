@@ -7,6 +7,6 @@ dependencies:
   - python
   - numpy
   - pip
+  - entrez-direct
   - pip:
-    - nbgitpuller
     - bash_kernel
