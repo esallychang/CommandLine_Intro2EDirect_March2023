@@ -1,0 +1,13 @@
+name: CommandLine_Intro2EDirect_March2023
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - pip
+  - magicblast
+  - pip:
+    - nbgitpuller
+    - bash_kernel
